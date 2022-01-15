@@ -3,9 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import SocialMedia from './components/SocialMediaLinks';
 
 ReactDOM.render(
   <React.StrictMode>
+    <SocialMedia />
     <App />
   </React.StrictMode>,
   document.getElementById('root')

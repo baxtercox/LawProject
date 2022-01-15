@@ -1,0 +1,55 @@
+.socialMediaLinks{
+    background-color: rgb(187, 187, 187);
+}
+
+.socialHeading{
+    display: table;
+    margin: 0 auto;
+    background-color: rgb(204, 204, 204);
+    position: relative;
+    width: 1170px;
+}
+
+.row{
+    margin-right: 16px;
+}
+
+.socialNetworks{
+    float: right;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    padding-left: 0;
+    display: inline;
+    margin-right: 16px;
+}
+
+ul li{
+    list-style: none;
+    list-style-position: outside;
+    list-style-image: none;
+    list-style-type: none;
+    float: right;
+    display: inline;
+    margin-left: 16px;
+    margin-bottom: 8px;
+}
+
+.phoneList{
+    list-style: none;
+    list-style-position: outside;
+    list-style-image: none;
+    list-style-type: none;
+    float: left;
+    display: inline;
+    margin-left: 0px;
+    margin-bottom: 8px;
+}
+
+.phone-logo{
+    margin-right: 8px;
+}
+
+.telNum{
+    margin-left: 4px;
+}
